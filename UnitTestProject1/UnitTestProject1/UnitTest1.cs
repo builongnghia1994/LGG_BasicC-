@@ -13,7 +13,7 @@ namespace UnitTestProject1
 
         public void abcd()
         {
-
+            Console.Clear();
         }
     }
 }
