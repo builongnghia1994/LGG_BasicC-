@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace UnitTestProject1
 {
     [TestClass]
-    public class
+    public class abc(){
     {
         [TestMethod]
     public void TestMethod1111111()
@@ -18,9 +18,8 @@ namespace UnitTestProject1
     private void fedds()
     { }
 
-    public change ()
+    public void change()
     { }
 }
-
-    
 }
+
