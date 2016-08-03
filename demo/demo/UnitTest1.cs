@@ -12,5 +12,8 @@ namespace demo
         {
             
         }
+
+        public void a ()
+            {}
     }
 }
