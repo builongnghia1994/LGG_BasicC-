@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace UnitTestProject1
 {
     [TestClass]
-    public class UnitTest1
+    public class Demotestcase
     {
         [TestMethod]
         public void TestMethod1111111()
@@ -16,6 +16,8 @@ namespace UnitTestProject1
             Console.Clear();
         }
         private void fedds()
-        { }
+        {
+            Console.WriteLine("sddsf");
+        }
     }
 }
