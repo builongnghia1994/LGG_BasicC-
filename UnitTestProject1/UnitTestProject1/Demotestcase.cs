@@ -19,5 +19,7 @@ namespace UnitTestProject1
         {
             Console.WriteLine("sddsf");
         }
+
+        public string acc = "aaaa";
     }
 }
