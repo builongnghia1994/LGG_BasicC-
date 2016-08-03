@@ -9,6 +9,10 @@ namespace test_demo
         [TestMethod]
         public void TestMethod1()
         {
+
         }
+
+        private void sdasdsa()
+        { }
     }
 }
