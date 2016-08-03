@@ -15,7 +15,10 @@ namespace UnitTestProject1
         {
             Console.Clear();
         }
+
         private void fedds()
         { }
+
+        public string acb = "Toi la ai";
     }
 }
