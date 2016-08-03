@@ -18,6 +18,9 @@ namespace UnitTestProject1
     private void fedds()
     { }
 
+    public change ()
+    { }
+}
 
     
 }
