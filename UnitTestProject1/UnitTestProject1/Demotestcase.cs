@@ -19,8 +19,5 @@ namespace UnitTestProject1
     { }
 
 
-    public abc ()
-        {
-        }
-    }
+    
 }
